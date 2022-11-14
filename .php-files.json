@@ -1,0 +1,7 @@
+{
+  "namespaces": {
+    "App":"app",
+    "Core":"core",
+    "Seed":"seed"
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "kombolewis/ecomstore",
+    "description": "Simple Ecommerce Application",
+    "keywords": ["shop","store","ecommerce"],
+    "type": "application",
+    "license": "MIT",
+    "readme": "",
+    "time": "",
+    "authors": [
+        {
+            "name": "kombolewis",
+            "email": "kombolewis@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {
+        "php":"^8.1.0",
+        "vlucas/phpdotenv": "^5.4",
+        "fabpot/goutte": "^4.0",
+        "symfony/panther": "^2.0"
+    },
+    "require-dev": {
+        "dbrekelmans/bdi": "^1.0"
+    }
+}
